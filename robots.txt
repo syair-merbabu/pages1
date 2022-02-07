@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://syair-hk-laris.pages.dev/sitemap.xml
